@@ -1,10 +1,11 @@
-/* Project Name: Melinda Tran Design (HW16)
+/* Project Name: Melinda Tran Design (HW25)
 Author: Melinda Tran
-Date Last Modified: April 4, 2019
+Date Last Modified: May 1, 2019
 Website: http://loynotran.byethost32.com/?i=1 */
 
 body { background-image: url("background.png"); 
-	  font-family: Helvetica; }
+	  font-family: Helvetica; 
+	  color: #000000;}
 
 h1 { line-height: 200%;
 	 padding-left: 2em;
@@ -29,6 +30,8 @@ footer { font-size: .70em;
 	   font-style: italic; 
 	   text-align: center; 
 		padding: 1em;}
+
+img { border:1px solid black; }
 
 #wrapper { background-color: #FFFFFF;
 	box-shadow: 5px 5px #888888;
